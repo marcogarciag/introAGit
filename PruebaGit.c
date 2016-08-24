@@ -11,5 +11,6 @@
 int main ()
 {
     printf ("Hola Git, bienvenido\n");
+    printf ("adios Git\n");
     return 0;
 }
