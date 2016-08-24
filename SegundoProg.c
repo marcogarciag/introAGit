@@ -10,11 +10,13 @@
 int main ()
 
 {
+    //segundo comment
     //hola
     //hola3
     int valor1=0;
     //hola4
     int valor2=0;
+    printf ("hejhe\n")
     //adiós
     int suma;
     printf ("Introduzca el primer número:\n");
@@ -22,7 +24,10 @@ int main ()
     printf("Introduzca el segundo número:\n");
     //equis
     //hola2
+    printf ("hola\n")
     scanf ("%d", &valor2);
+    eeee
+    //jejeje
     suma=(valor1+valor2);
     printf("la suma es %d \n", suma);
     return 0;
